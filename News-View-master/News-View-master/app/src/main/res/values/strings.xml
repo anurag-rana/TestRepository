@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News View</string>
+    <string name="default_text">"this is a default check text from wikipedia:."
+        ,"url":"https://timesofindia.indiatimes.com/world/middle - east/hundreds - of - 
+        mysterious - stone - gates - found - in - saudi - arabias - desert
+        /articleshow/61162593.cms","urlToImage":"https://static.toiimg.com/photo/msid - 61163090/61163090.jpg?333008"
+        ,"publishedAt":"2017 - 10 - 21T04:33:58Z"},{"author":null,"title":"Srikanth sails
+       
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
